@@ -1,6 +1,3 @@
-# ChatApp with Flask SocketIO
-\- [via](https://www.youtube.com/watch?v=mkXdvs8H7TA) -
-
 ## Features
 - it is a live chat application
 - pick a name
