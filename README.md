@@ -9,12 +9,12 @@
 
 - Clone repository to your local:
 ```
-git clone https://github.com/erkamesen/Flask-ChatApp-Socket-Programming.git
+git clone https:github.com/mooose22/Flask-Chat-App
 ```
 
 - Navigate to directory:
 ```
-Flask-ChatApp-Socket-Programming
+Flask-Chat-App
 ```
 - Install requirements:
 ```
