@@ -24,6 +24,6 @@ pip install -r requirements.txt
 ```
 flask run
 ```
-Now the chat app running on your localhost: http://127.0.0.1:5000 <br>
+Now the chat app is running on your localhost: http://127.0.0.1:5000 <br>
 
 Have fun !
